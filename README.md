@@ -23,4 +23,5 @@
 
 
 ### What is Artificial Intelligence?
-<p style="text-align:center">Something in Center</p>
+<p style="text-align:center;">Something in Center</p>
+<p align="center">Something in Center</p>
