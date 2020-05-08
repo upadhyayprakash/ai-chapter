@@ -23,3 +23,4 @@
 
 
 ### What is Artificial Intelligence?
+<p style="text-align:center">Something in Center</p>
