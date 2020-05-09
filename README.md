@@ -1,4 +1,4 @@
-# PSN - AI & Deep Learning
+# AI & Deep Learning
 ![](https://i.pinimg.com/originals/a9/95/f5/a995f5abc92c3d5a96618f5b986fcd2c.jpg)
 ## Topics Covered:
 ### Basic
