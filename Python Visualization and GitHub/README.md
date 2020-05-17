@@ -4,6 +4,7 @@
 ##### "Humans are not good at recalling numbers. Computers are!"
 <br />
 <br />
+
 > **A picture is not just worth 1000s words, it helps you grasp an info, recall a concept, and convince your clients.**
 
 <br />
