@@ -37,6 +37,7 @@ Open this [Colab Notebook](https://colab.research.google.com/drive/1QRLinz-ja7Gx
 # Interactivity with [Plotly](https://plotly.com/)
 ![](https://s3.amazonaws.com/kajabi-storefronts-production/blogs/12746/images/5KXnmiYCRcG2X4j4RuDH_plotly_2017.png)
 
+#### Notebook: [Plotly Demo](https://colab.research.google.com/drive/1ppFhhxdFtFEq_CqN41BFcKhZKwotOFm8#scrollTo=RgC1t0y_VkFf)
 
 # GitHub
 ![](https://miro.medium.com/max/1360/0*u4zyXuUmCFhkJSLS.png "GitHub Logo")
