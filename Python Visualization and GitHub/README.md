@@ -50,4 +50,5 @@ Open this [Colab Notebook](https://colab.research.google.com/drive/1QRLinz-ja7Gx
 <br />
 <br />
 <br />
-![](https://miro.medium.com/max/1200/1*_UUaozFPd2qHfCFjlhIgGA.png)
+
+![](https://miro.medium.com/max/1000/0*myMa5TDvjmtlvl_R.png)
