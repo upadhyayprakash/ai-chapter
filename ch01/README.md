@@ -19,7 +19,7 @@
 	- GitHub Account - you assignments will be submitted via GitHub.
 - Deadlines for the Assignments are HARD, and any SOFT deadline will be informed in the group in advance.
 
-<center> Let's get started...</center>
+<text align='center'> Let's get started...</text>
 <br />
 <br />
 This is how we want you to feel when you think about DNNs
